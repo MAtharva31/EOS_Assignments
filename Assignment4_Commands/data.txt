@@ -1,0 +1,6 @@
+Linux is open source.
+In Linux everything is file
+file have permissions.
+file have inode no.
+files have size.
+there are several types of files.
